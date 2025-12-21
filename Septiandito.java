@@ -4,3 +4,4 @@ public class Septiandito {
         System.out.println("Saya Septiandito Rizky Melonia - NIM:1324084");
     }
 }
+
